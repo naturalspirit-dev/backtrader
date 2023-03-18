@@ -1,0 +1,6 @@
+tree 6d1fafa34b4d8c62956d0c75c281561d4a9cf830
+parent 7a8c05f34b3d0133bd7c05e868bf568fe53ce86d
+author mementum <mementum@users.noreply.github.com> 1431173178 +0200
+committer mementum <mementum@users.noreply.github.com> 1431173178 +0200
+
+lineroot implementation of __nonzero__/__bool__
